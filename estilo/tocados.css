@@ -1,0 +1,32 @@
+section.bloque
+{
+	height: 700px;
+}
+section.bloque div.tabla h2
+{
+	text-align: center;
+	font-family: 'Cinzel Decorative', cursive;
+	font-size: 55px;
+	color: #f1004b;
+	text-decoration: underline;
+	font-weight: 700;
+	padding: 15px 0 25px 0;
+}
+
+.tabla_principal img 
+{
+	border: 5px solid #000;
+	padding: 3px;
+	width: 140px;
+	height: 140px;
+}
+
+.tabla .tabla_principal
+{
+	margin: auto;
+}
+
+td 
+{
+	padding: 10px;
+}
